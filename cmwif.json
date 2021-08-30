@@ -1,0 +1,492 @@
+[
+  {
+    "agent": "soup",
+    "chat": "Dollar strengthening -should reverse recent downturn in share price.",
+    "entityType": "agent",
+    "timestamp": "2021-08-30 11:19:51"
+  },
+  {
+    "agent": "okandi.co",
+    "chat": "the time is 00:00 on 09-18, location 31.5N, -73.5E",
+    "entityType": "weather",
+    "timestamp": "2021-08-30 11:20:00"
+  },
+  {
+    "agent": "okandi.co",
+    "chat": "max wind speed is 90 knots",
+    "entityType": "weather",
+    "timestamp": "2021-08-30 11:20:00"
+  },
+  {
+    "agent": "okandi.co",
+    "chat": "this storm is now classified as a Tropical cyclone of hurricane intensity",
+    "entityType": "weather",
+    "timestamp": "2021-08-30 11:20:00"
+  },
+  {
+    "agent": "xxxxxxy",
+    "chat": "Frosty in Banstead. She wants me to turn the heating on.",
+    "entityType": "agent",
+    "timestamp": "2021-08-30 11:20:13"
+  },
+  {
+    "agent": "perish",
+    "chat": "…and now it gets interesting",
+    "entityType": "agent",
+    "timestamp": "2021-08-30 11:21:30"
+  },
+  {
+    "agent": "okandi.co",
+    "chat": "the time is 18:00 on 09-18, location 35.1N, -76.4E",
+    "entityType": "weather",
+    "timestamp": "2021-08-30 11:22:00"
+  },
+  {
+    "agent": "okandi.co",
+    "chat": "max wind speed is 85 knots",
+    "entityType": "weather",
+    "timestamp": "2021-08-30 11:22:00"
+  },
+  {
+    "agent": "okandi.co",
+    "chat": "this storm is now classified as a Tropical cyclone of hurricane intensity",
+    "entityType": "weather",
+    "timestamp": "2021-08-30 11:22:00"
+  },
+  {
+    "agent": "okandi.co",
+    "chat": "the time is 18:00 on 09-19, location 43.9N, -80.9E",
+    "entityType": "weather",
+    "timestamp": "2021-08-30 11:24:00"
+  },
+  {
+    "agent": "okandi.co",
+    "chat": "max wind speed is 30 knots",
+    "entityType": "weather",
+    "timestamp": "2021-08-30 11:24:00"
+  },
+  {
+    "agent": "okandi.co",
+    "chat": "this storm is now classified as a Extratropical cyclone",
+    "entityType": "weather",
+    "timestamp": "2021-08-30 11:24:00"
+  },
+  {
+    "agent": "idoflykathy",
+    "chat": "Not enough risk to be worth it, better off buying treasury bonds than waste time chasing weather",
+    "entityType": "agent",
+    "timestamp": "2021-08-30 11:24:48"
+  },
+  {
+    "agent": "okandi.co",
+    "chat": "### NEW STORM: JUAN",
+    "entityType": "weather",
+    "timestamp": "2021-08-30 11:25:00"
+  },
+  {
+    "agent": "market",
+    "chat": "##### NEW CAT DROP #####",
+    "entityType": "market",
+    "timestamp": "2021-08-30 11:25:00"
+  },
+  {
+    "agent": "market",
+    "chat": "Merna Re V Ltd. has released a tranche of 44 bonds",
+    "entityType": "market",
+    "timestamp": "2021-08-30 11:25:00"
+  },
+  {
+    "agent": "okandi.co",
+    "chat": "the time is 12:00 on 09-24, location 28.2N, -62.4E",
+    "entityType": "weather",
+    "timestamp": "2021-08-30 11:25:00"
+  },
+  {
+    "agent": "okandi.co",
+    "chat": "max wind speed is 25 knots",
+    "entityType": "weather",
+    "timestamp": "2021-08-30 11:25:00"
+  },
+  {
+    "agent": "okandi.co",
+    "chat": "this storm is now classified as a Tropical cyclone of tropical depression intensity",
+    "entityType": "weather",
+    "timestamp": "2021-08-30 11:25:00"
+  },
+  {
+    "agent": "5823222",
+    "chat": "The \"beast from the east\" seems to have got lost.",
+    "entityType": "agent",
+    "timestamp": "2021-08-30 11:25:15"
+  }
+]
+
+[
+   {
+      "agent":"okandi.co",
+      "chat":"this storm is now classified as a Tropical cyclone of hurricane intensity",
+      "entityType":"weather",
+      "timestamp":"2021-08-30 16:04:47"
+   },
+   {
+      "agent":"okandi.co",
+      "chat":"the time is 6:00 on 09-11, location 17.4N, -77.6E",
+      "entityType":"weather",
+      "timestamp":"2021-08-30 16:06:47"
+   },
+   {
+      "agent":"okandi.co",
+      "chat":"max wind speed is 130 knots",
+      "entityType":"weather",
+      "timestamp":"2021-08-30 16:06:47"
+   },
+   {
+      "agent":"okandi.co",
+      "chat":"this storm is now classified as a Tropical cyclone of hurricane intensity",
+      "entityType":"weather",
+      "timestamp":"2021-08-30 16:06:47"
+   },
+   {
+      "agent":"okandi.co",
+      "chat":"the time is 6:00 on 09-12, location 18.4N, -80.4E",
+      "entityType":"weather",
+      "timestamp":"2021-08-30 16:08:47"
+   },
+   {
+      "agent":"okandi.co",
+      "chat":"max wind speed is 135 knots",
+      "entityType":"weather",
+      "timestamp":"2021-08-30 16:08:47"
+   },
+   {
+      "agent":"okandi.co",
+      "chat":"this storm is now classified as a Tropical cyclone of hurricane intensity",
+      "entityType":"weather",
+      "timestamp":"2021-08-30 16:08:47"
+   },
+   {
+      "agent":"okandi.co",
+      "chat":"the time is 00:00 on 09-13, location 19.5N, -82.8E",
+      "entityType":"weather",
+      "timestamp":"2021-08-30 16:10:47"
+   },
+   {
+      "agent":"okandi.co",
+      "chat":"max wind speed is 140 knots",
+      "entityType":"weather",
+      "timestamp":"2021-08-30 16:10:47"
+   },
+   {
+      "agent":"okandi.co",
+      "chat":"this storm is now classified as a Tropical cyclone of hurricane intensity",
+      "entityType":"weather",
+      "timestamp":"2021-08-30 16:10:47"
+   },
+   {
+      "agent":"okandi.co",
+      "chat":"the time is 21:00 on 09-13, location 21.2N, -84.8E",
+      "entityType":"weather",
+      "timestamp":"2021-08-30 16:12:48"
+   },
+   {
+      "agent":"okandi.co",
+      "chat":"max wind speed is 140 knots",
+      "entityType":"weather",
+      "timestamp":"2021-08-30 16:12:48"
+   },
+   {
+      "agent":"okandi.co",
+      "chat":"this storm is now classified as a Tropical cyclone of hurricane intensity",
+      "entityType":"weather",
+      "timestamp":"2021-08-30 16:12:48"
+   },
+   {
+      "agent":"okandi.co",
+      "chat":"the time is 12:00 on 09-14, location 23.0N, -86.0E",
+      "entityType":"weather",
+      "timestamp":"2021-08-30 16:14:48"
+   },
+   {
+      "agent":"okandi.co",
+      "chat":"max wind speed is 125 knots",
+      "entityType":"weather",
+      "timestamp":"2021-08-30 16:14:48"
+   },
+   {
+      "agent":"okandi.co",
+      "chat":"this storm is now classified as a Tropical cyclone of hurricane intensity",
+      "entityType":"weather",
+      "timestamp":"2021-08-30 16:14:48"
+   },
+   {
+      "agent":"Seneca",
+      "chat":"Too slow and predictable\u2026",
+      "entityType":"agent",
+      "timestamp":"2021-08-30 16:16:34"
+   },
+   {
+      "agent":"okandi.co",
+      "chat":"the time is 12:00 on 09-15, location 26.7N, -87.9E",
+      "entityType":"weather",
+      "timestamp":"2021-08-30 16:16:48"
+   },
+   {
+      "agent":"okandi.co",
+      "chat":"max wind speed is 115 knots",
+      "entityType":"weather",
+      "timestamp":"2021-08-30 16:16:48"
+   },
+   {
+      "agent":"okandi.co",
+      "chat":"this storm is now classified as a Tropical cyclone of hurricane intensity",
+      "entityType":"weather",
+      "timestamp":"2021-08-30 16:16:48"
+   }
+]
+
+[
+   {
+      "agent":"adg",
+      "chat":"Some mortality events are going to come through life, like death and business interruption",
+      "entityType":"agent",
+      "timestamp":"2021-08-30 15:53:06"
+   },
+   {
+      "agent":"oracle",
+      "chat":"The ocean are still dark. Danger and opportunity awaits.",
+      "entityType":"oracle",
+      "timestamp":"2021-08-30 15:53:39"
+   },
+   {
+      "agent":"oracle",
+      "chat":"The sea are still harder than usual. No more new orders.",
+      "entityType":"oracle",
+      "timestamp":"2021-08-30 15:54:38"
+   },
+   {
+      "agent":"okandi.co",
+      "chat":"the time is 18:00 on 09-05, location 10.2N, -46.8E",
+      "entityType":"weather",
+      "timestamp":"2021-08-30 15:54:46"
+   },
+   {
+      "agent":"okandi.co",
+      "chat":"max wind speed is 110 knots",
+      "entityType":"weather",
+      "timestamp":"2021-08-30 15:54:46"
+   },
+   {
+      "agent":"okandi.co",
+      "chat":"this storm is now classified as a Tropical cyclone of hurricane intensity",
+      "entityType":"weather",
+      "timestamp":"2021-08-30 15:54:46"
+   },
+   {
+      "agent":"maxk",
+      "chat":"The kraken wakes..",
+      "entityType":"agent",
+      "timestamp":"2021-08-30 15:55:09"
+   },
+   {
+      "agent":"rakepat37",
+      "chat":"Anyone here into earthquakes?",
+      "entityType":"agent",
+      "timestamp":"2021-08-30 15:56:04"
+   },
+   {
+      "agent":"El Capitan",
+      "chat":"Whos Control #Climate",
+      "entityType":"agent",
+      "timestamp":"2021-08-30 15:56:11"
+   },
+   {
+      "agent":"oracle",
+      "chat":"Aggressive hurricane force into the Straits of Florida, travelling through moments of peace. Opportunities abound?",
+      "entityType":"oracle",
+      "timestamp":"2021-08-30 15:56:34"
+   },
+   {
+      "agent":"okandi.co",
+      "chat":"the time is 18:00 on 09-06, location 11.3N, -54.4E",
+      "entityType":"weather",
+      "timestamp":"2021-08-30 15:56:47"
+   },
+   {
+      "agent":"okandi.co",
+      "chat":"max wind speed is 90 knots",
+      "entityType":"weather",
+      "timestamp":"2021-08-30 15:56:47"
+   },
+   {
+      "agent":"okandi.co",
+      "chat":"this storm is now classified as a Tropical cyclone of hurricane intensity",
+      "entityType":"weather",
+      "timestamp":"2021-08-30 15:56:47"
+   },
+   {
+      "agent":"mitch56",
+      "chat":"nice day for it",
+      "entityType":"agent",
+      "timestamp":"2021-08-30 15:57:03"
+   },
+   {
+      "agent":"okandi.co",
+      "chat":"the time is 18:00 on 09-07, location 11.8N, -61.1E",
+      "entityType":"weather",
+      "timestamp":"2021-08-30 15:58:47"
+   },
+   {
+      "agent":"okandi.co",
+      "chat":"max wind speed is 105 knots",
+      "entityType":"weather",
+      "timestamp":"2021-08-30 15:58:47"
+   },
+   {
+      "agent":"okandi.co",
+      "chat":"this storm is now classified as a Tropical cyclone of hurricane intensity",
+      "entityType":"weather",
+      "timestamp":"2021-08-30 15:58:47"
+   },
+   {
+      "agent":"okandi.co",
+      "chat":"the time is 12:00 on 09-08, location 12.6N, -65.5E",
+      "entityType":"weather",
+      "timestamp":"2021-08-30 16:00:47"
+   },
+   {
+      "agent":"okandi.co",
+      "chat":"max wind speed is 120 knots",
+      "entityType":"weather",
+      "timestamp":"2021-08-30 16:00:47"
+   },
+   {
+      "agent":"okandi.co",
+      "chat":"this storm is now classified as a Tropical cyclone of hurricane intensity",
+      "entityType":"weather",
+      "timestamp":"2021-08-30 16:00:47"
+   }
+]
+
+[
+   {
+      "agent":"okandi.co",
+      "chat":"this storm is now classified as a Tropical cyclone of hurricane intensity",
+      "entityType":"weather",
+      "timestamp":"2021-08-30 16:14:48"
+   },
+   {
+      "agent":"Seneca",
+      "chat":"Too slow and predictable\u2026",
+      "entityType":"agent",
+      "timestamp":"2021-08-30 16:16:34"
+   },
+   {
+      "agent":"okandi.co",
+      "chat":"the time is 12:00 on 09-15, location 26.7N, -87.9E",
+      "entityType":"weather",
+      "timestamp":"2021-08-30 16:16:48"
+   },
+   {
+      "agent":"okandi.co",
+      "chat":"max wind speed is 115 knots",
+      "entityType":"weather",
+      "timestamp":"2021-08-30 16:16:48"
+   },
+   {
+      "agent":"okandi.co",
+      "chat":"this storm is now classified as a Tropical cyclone of hurricane intensity",
+      "entityType":"weather",
+      "timestamp":"2021-08-30 16:16:48"
+   },
+   {
+      "agent":"okandi.co",
+      "chat":"the time is 6:50 on 09-16, location 30.2N, -87.9E",
+      "entityType":"weather",
+      "timestamp":"2021-08-30 16:18:48"
+   },
+   {
+      "agent":"okandi.co",
+      "chat":"max wind speed is 105 knots",
+      "entityType":"weather",
+      "timestamp":"2021-08-30 16:18:48"
+   },
+   {
+      "agent":"okandi.co",
+      "chat":"this storm is now classified as a Tropical cyclone of hurricane intensity",
+      "entityType":"weather",
+      "timestamp":"2021-08-30 16:18:48"
+   },
+   {
+      "agent":"kvik22",
+      "chat":"she's made it!!",
+      "entityType":"agent",
+      "timestamp":"2021-08-30 16:18:48"
+   },
+   {
+      "agent":"okandi.co",
+      "chat":"the time is 6:00 on 09-17, location 34.7N, -85.7E",
+      "entityType":"weather",
+      "timestamp":"2021-08-30 16:20:48"
+   },
+   {
+      "agent":"okandi.co",
+      "chat":"max wind speed is 25 knots",
+      "entityType":"weather",
+      "timestamp":"2021-08-30 16:20:48"
+   },
+   {
+      "agent":"okandi.co",
+      "chat":"this storm is now classified as a Tropical cyclone of tropical depression intensity",
+      "entityType":"weather",
+      "timestamp":"2021-08-30 16:20:48"
+   },
+   {
+      "agent":"justtrying1",
+      "chat":"Most of these drops are coming from pension funds\u2026",
+      "entityType":"agent",
+      "timestamp":"2021-08-30 16:21:27"
+   },
+   {
+      "agent":"okandi.co",
+      "chat":"the time is 6:00 on 09-18, location 37.7N, -78.5E",
+      "entityType":"weather",
+      "timestamp":"2021-08-30 16:22:48"
+   },
+   {
+      "agent":"okandi.co",
+      "chat":"max wind speed is 15 knots",
+      "entityType":"weather",
+      "timestamp":"2021-08-30 16:22:48"
+   },
+   {
+      "agent":"okandi.co",
+      "chat":"this storm is now classified as a Tropical cyclone of tropical depression intensity",
+      "entityType":"weather",
+      "timestamp":"2021-08-30 16:22:48"
+   },
+   {
+      "agent":"okandi.co",
+      "chat":"the time is 6:00 on 09-19, location 36.0N, -74.0E",
+      "entityType":"weather",
+      "timestamp":"2021-08-30 16:24:48"
+   },
+   {
+      "agent":"okandi.co",
+      "chat":"max wind speed is 35 knots",
+      "entityType":"weather",
+      "timestamp":"2021-08-30 16:24:48"
+   },
+   {
+      "agent":"okandi.co",
+      "chat":"this storm is now classified as a Extratropical cyclone",
+      "entityType":"weather",
+      "timestamp":"2021-08-30 16:24:48"
+   },
+   {
+      "agent":"tomboyb",
+      "chat":"They\u2019re just paying 401k into their own insurance?",
+      "entityType":"agent",
+      "timestamp":"2021-08-30 16:25:28"
+   }
+]
+

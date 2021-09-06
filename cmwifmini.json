@@ -1,0 +1,121 @@
+[{
+    "agent": "soup",
+    "chat": "Dollar strengthening -should reverse recent downturn in share price.",
+    "entityType": "agent",
+    "timestamp": "2021-08-30 11:19:51"
+  },
+  {
+    "agent": "okandi.co",
+    "chat": "the time is 00:00 on 09-18, location 31.5N, -73.5E",
+    "entityType": "weather",
+    "timestamp": "2021-08-30 11:20:00"
+  },
+  {
+    "agent": "okandi.co",
+    "chat": "max wind speed is 90 knots",
+    "entityType": "weather",
+    "timestamp": "2021-08-30 11:20:00"
+  },
+  {
+    "agent": "okandi.co",
+    "chat": "this storm is now classified as a Tropical cyclone of hurricane intensity",
+    "entityType": "weather",
+    "timestamp": "2021-08-30 11:20:00"
+  },
+  {
+    "agent": "xxxxxxy",
+    "chat": "Frosty in Banstead. She wants me to turn the heating on.",
+    "entityType": "agent",
+    "timestamp": "2021-08-30 11:20:13"
+  },
+  {
+    "agent": "perish",
+    "chat": "…and now it gets interesting",
+    "entityType": "agent",
+    "timestamp": "2021-08-30 11:21:30"
+  },
+  {
+    "agent": "okandi.co",
+    "chat": "the time is 18:00 on 09-18, location 35.1N, -76.4E",
+    "entityType": "weather",
+    "timestamp": "2021-08-30 11:22:00"
+  },
+  {
+    "agent": "okandi.co",
+    "chat": "max wind speed is 85 knots",
+    "entityType": "weather",
+    "timestamp": "2021-08-30 11:22:00"
+  },
+  {
+    "agent": "okandi.co",
+    "chat": "this storm is now classified as a Tropical cyclone of hurricane intensity",
+    "entityType": "weather",
+    "timestamp": "2021-08-30 11:22:00"
+  },
+  {
+    "agent": "okandi.co",
+    "chat": "the time is 18:00 on 09-19, location 43.9N, -80.9E",
+    "entityType": "weather",
+    "timestamp": "2021-08-30 11:24:00"
+  },
+  {
+    "agent": "okandi.co",
+    "chat": "max wind speed is 30 knots",
+    "entityType": "weather",
+    "timestamp": "2021-08-30 11:24:00"
+  },
+  {
+    "agent": "okandi.co",
+    "chat": "this storm is now classified as a Extratropical cyclone",
+    "entityType": "weather",
+    "timestamp": "2021-08-30 11:24:00"
+  },
+  {
+    "agent": "idoflykathy",
+    "chat": "Not enough risk to be worth it, better off buying treasury bonds than waste time chasing weather",
+    "entityType": "agent",
+    "timestamp": "2021-08-30 11:24:48"
+  },
+  {
+    "agent": "okandi.co",
+    "chat": "### NEW STORM: JUAN",
+    "entityType": "weather",
+    "timestamp": "2021-08-30 11:25:00"
+  },
+  {
+    "agent": "market",
+    "chat": "##### NEW CAT DROP #####",
+    "entityType": "market",
+    "timestamp": "2021-08-30 11:25:00"
+  },
+  {
+    "agent": "market",
+    "chat": "Merna Re V Ltd. has released a tranche of 44 bonds",
+    "entityType": "market",
+    "timestamp": "2021-08-30 11:25:00"
+  },
+  {
+    "agent": "okandi.co",
+    "chat": "the time is 12:00 on 09-24, location 28.2N, -62.4E",
+    "entityType": "weather",
+    "timestamp": "2021-08-30 11:25:00"
+  },
+  {
+    "agent": "okandi.co",
+    "chat": "max wind speed is 25 knots",
+    "entityType": "weather",
+    "timestamp": "2021-08-30 11:25:00"
+  },
+  {
+    "agent": "okandi.co",
+    "chat": "this storm is now classified as a Tropical cyclone of tropical depression intensity",
+    "entityType": "weather",
+    "timestamp": "2021-08-30 11:25:00"
+  },
+  {
+    "agent": "5823222",
+    "chat": "The \"beast from the east\" seems to have got lost.",
+    "entityType": "agent",
+    "timestamp": "2021-08-30 11:25:15"
+  }
+]

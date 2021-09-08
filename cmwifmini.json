@@ -1,4 +1,11 @@
 [{
+    "agent": "oracle",
+    "chat": "Some mortality events are going to come through life, like death and business interruption",
+    "entityType": "oracle",
+    "timestamp": "2021-08-30 15:53:06"
+  },
+    
+    {
     "agent": "soup",
     "chat": "Dollar strengthening -should reverse recent downturn in share price.",
     "entityType": "agent",
@@ -94,12 +101,7 @@
     "entityType": "market",
     "timestamp": "2021-08-30 11:25:00"
   },
- {
-    "agent": "oracle",
-    "chat": "Some mortality events are going to come through life, like death and business interruption",
-    "entityType": "oracle",
-    "timestamp": "2021-08-30 15:53:06"
-  },
+ 
   {
     "agent": "okandi.co",
     "chat": "the time is 12:00 on 09-24, location 28.2N, -62.4E",

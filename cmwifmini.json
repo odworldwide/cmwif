@@ -97,7 +97,7 @@
  {
     "agent": "oracle",
     "chat": "Some mortality events are going to come through life, like death and business interruption",
-    "entityType": "agent",
+    "entityType": "oracle",
     "timestamp": "2021-08-30 15:53:06"
   },
   {

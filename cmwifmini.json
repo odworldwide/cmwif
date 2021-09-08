@@ -4,16 +4,9 @@
     "entityType": "oracle",
     "timestamp": "2021-08-30 15:53:06"
   },
-    
-    {
-    "agent": "soup",
-    "chat": "Dollar strengthening -should reverse recent downturn in share price.",
-    "entityType": "agent",
-    "timestamp": "2021-08-30 11:19:51"
-  },
-  {
+   {
     "agent": "okandi.co",
-    "chat": "the time is 00:00 on 09-18, location 31.5N, -73.5E",
+    "chat": "location 31.5N, -73.5E",
     "entityType": "weather",
     "timestamp": "2021-08-30 11:20:00"
   },
@@ -29,9 +22,17 @@
     "entityType": "weather",
     "timestamp": "2021-08-30 11:20:00"
   },
+    
+    {
+    "agent": "soup",
+    "chat": "Dollar strengthening -should reverse recent downturn in share price.",
+    "entityType": "agent",
+    "timestamp": "2021-08-30 11:19:51"
+  },
+
   {
     "agent": "xxxxxxy",
-    "chat": "Frosty in Banstead. She wants me to turn the heating on.",
+    "chat": "Sunny in Banstead. She still wants me to turn the heating on.",
     "entityType": "agent",
     "timestamp": "2021-08-30 11:20:13"
   },
@@ -43,7 +44,7 @@
   },
   {
     "agent": "okandi.co",
-    "chat": "the time is 18:00 on 09-18, location 35.1N, -76.4E",
+    "chat": "location 35.1N, -76.4E",
     "entityType": "weather",
     "timestamp": "2021-08-30 11:22:00"
   },
@@ -61,7 +62,7 @@
   },
   {
     "agent": "okandi.co",
-    "chat": "the time is 18:00 on 09-19, location 43.9N, -80.9E",
+    "chat": "location 43.9N, -80.9E",
     "entityType": "weather",
     "timestamp": "2021-08-30 11:24:00"
   },
@@ -85,13 +86,13 @@
   },
   {
     "agent": "okandi.co",
-    "chat": "### NEW STORM: JUAN",
+    "chat": "C.M.W.I.F out NOW",
     "entityType": "weather",
     "timestamp": "2021-08-30 11:25:00"
   },
   {
     "agent": "market",
-    "chat": "##### NEW CAT DROP #####",
+    "chat": "##### NEW LOOT DROP #####",
     "entityType": "market",
     "timestamp": "2021-08-30 11:25:00"
   },
@@ -104,7 +105,7 @@
  
   {
     "agent": "okandi.co",
-    "chat": "the time is 12:00 on 09-24, location 28.2N, -62.4E",
+    "chat": "location 28.2N, -62.4E",
     "entityType": "weather",
     "timestamp": "2021-08-30 11:25:00"
   },

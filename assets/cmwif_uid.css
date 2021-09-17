@@ -1,0 +1,73 @@
+body {
+    background: black;
+    margin: 1em;
+    overflow: scroll
+}
+
+canvas {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    margin: 0
+}
+
+@keyframes huey {
+    from {
+        filter: hue-rotate()
+    }
+
+    to {
+        filter: hue-rotate(360deg)
+    }
+}
+
+#win {
+    display: inline-block;
+    animation: huey 5s linear infinite;
+    margin-bottom: 100%
+}
+
+#win,
+#win a {
+    font-family: monospace;
+    font-size: 1em;
+    background-color: rgba(0, 0, 0, 0.4);
+    color: #03FFED;
+    border: solid 1px #03FFED;
+    border-radius: 0.6em
+}
+
+#win a {
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    padding: 1em
+}
+
+#win a:hover {
+    background-color: rgba(73, 119, 110, 0.4)
+}
+
+#win a:active {
+    background-color: rgba(73, 119, 110, 0.9)
+}
+
+#win h1 {
+    font-size: 1.4em;
+    font-style: italic;
+    text-align: center;
+    padding: 0.2em;
+    background: #03FFED;
+    color: #0D2120;
+    margin: 0;
+    border-radius: 0.4em 0.4em 0 0
+}
+
+#winb {
+    margin: 1em
+}
+
+#winb h2 {
+    margin-bottom: 0
+}

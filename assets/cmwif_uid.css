@@ -43,6 +43,7 @@ canvas {
     text-align: center;
     display: block;
     padding: 1em
+    background-size: cover
 }
 
 #win a:hover {

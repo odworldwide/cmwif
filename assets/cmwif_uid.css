@@ -2,7 +2,7 @@ body {
     background: transparent;
     margin: 0em;
     overflow: scroll
-    
+
 }
 
 canvas {
@@ -11,7 +11,9 @@ canvas {
     left: 0;
     z-index: -1;
     margin: 0
-    background-size: cover
+    background-size: cover;
+
+    
 }
 
 @keyframes huey {
@@ -32,12 +34,13 @@ canvas {
 
 #win,
 #win a {
-    font-family: 'Courier New', monospace;
+    font-family: monospace;
     font-size: 1em;
     background-color: rgba(0, 0, 0, 0.4);
     color: #03FFED;
     border: solid 1px #03FFED;
     border-radius: 0.6em
+
 }
 
 #win a {
@@ -68,7 +71,7 @@ canvas {
 
 #winb {
     margin: 1em
-    color: #03FFED;
+    color: #03FFED
 }
 
 #winb h2 {

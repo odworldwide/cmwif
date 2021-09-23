@@ -1,0 +1,67 @@
+{
+    "brian.where_is_gabby": {
+        "name": "brain.where_is_gabby",
+        "category": "questions_about_gabby",
+        "example": "Where is Gabby?",
+        "locale": "en-us",
+        "patterns": [
+            "where is Gabby",
+            "what happened to Gabby",
+            "did you hurt Gabby",
+            "are you with Gabby",
+            "how is Gabby",
+            "did you kill Gabby",
+            "gabby",
+            "your fiance",
+            "did you hurt her",
+            "where's gabby",
+            "are you on the run",
+            "why are you running",
+            "where is she",
+            "where are you"
+        ]
+    },
+    "brian.earth": {
+        "name": "brain.earth",
+        "category": "questions_about_earth",
+        "example": "What are your beliefs?",
+        "locale": "en-us",
+        "patterns": [
+            "what are your beliefs",
+            "what about nature",
+            "are you a hippie",
+            "do you like people",
+            "how to fix earth",
+            "do you like humans",
+            "tell me a story",
+            "tell me more",
+            "what are you doing",
+            "how to be sustainable",
+            "save the earth",
+            "i love the earth",
+            "i love nature",
+            "i love trees"
+       
+        ]
+    },
+    "brian.art": {
+        "name": "brian.art",
+        "category": "questions_about_art",
+        "example": "Are you an artist?",
+        "locale": "en-us",
+        "patterns": [
+            "tell me about your art",
+            "are you an artist",
+            "your art is dark",
+            "do you draw",
+            "do you paint",
+            "what inspires you",
+            "what about art",
+            "do you write",
+            "tell me about your writing",
+            "do you enjoy art"
+            
+        ]
+    
+    }
+}

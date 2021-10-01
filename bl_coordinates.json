@@ -1,0 +1,307 @@
+[{
+	"geometry": {
+		"coordinates": [40.7440, 73.0346],
+		"type": "Point"
+	},
+	"properties": {
+		"class": "TD",
+		"date": "07-27-1998",
+		"highest_risk": null,
+		"landfall": false,
+		"proximity": [],
+		"report": "Blue Point, NY: Trip Begins",
+		"risk": 0,
+		"speed": "25",
+		"time": "12:00"
+	},
+	"type": "Feature"
+}, {
+	"geometry": {
+		"coordinates": [38.7942, 100.7631],
+		"type": "Point"
+	},
+	"properties": {
+		"class": "TD",
+		"date": "07-27-1998",
+		"highest_risk": null,
+		"landfall": false,
+		"proximity": [],
+		"report": "Monument Rocks: Scott City, Kansas",
+		"risk": 0,
+		"speed": "25",
+		"time": "18:00"
+	},
+	"type": "Feature"
+}, {
+	"geometry": {
+		"coordinates": [38.8339, 104.8214],
+		"type": "Point"
+	},
+	"properties": {
+		"class": "TD",
+		"date": "07-28-1998",
+		"highest_risk": null,
+		"landfall": false,
+		"proximity": [],
+		"report": "Tropical cyclone of tropical depression intensity",
+		"risk": 0,
+		"speed": "25",
+		"time": "00:00"
+	},
+	"type": "Feature"
+}, {
+	"geometry": {
+		"coordinates": [37.7689, 105.5706],
+		"type": "Point"
+	},
+	"properties": {
+		"class": "TD",
+		"date": "07-28-1998",
+		"highest_risk": null,
+		"landfall": false,
+		"proximity": [],
+		"report": "Tropical cyclone of tropical depression intensity",
+		"risk": 0,
+		"speed": "25",
+		"time": "6:00"
+	},
+	"type": "Feature"
+}, {
+	"geometry": {
+		"coordinates": [37.2982, 113.0263],
+		"type": "Point"
+	},
+	"properties": {
+		"class": "TD",
+		"date": "07-28-1998",
+		"highest_risk": null,
+		"landfall": false,
+		"proximity": [],
+		"report": "Tropical cyclone of tropical depression intensity",
+		"risk": 0,
+		"speed": "30",
+		"time": "12:00"
+	},
+	"type": "Feature"
+}, {
+	"geometry": {
+		"coordinates": [37.6347, 112.8451],
+		"type": "Point"
+	},
+	"properties": {
+		"class": "TD",
+		"date": "07-28-1998",
+		"highest_risk": null,
+		"landfall": false,
+		"proximity": [],
+		"report": "Tropical cyclone of tropical depression intensity",
+		"risk": 0,
+		"speed": "30",
+		"time": "18:00"
+	},
+	"type": "Feature"
+}, {
+	"geometry": {
+		"coordinates": [37.5930, 112.1871],
+		"type": "Point"
+	},
+	"properties": {
+		"class": "TS",
+		"date": "07-29-1998",
+		"highest_risk": null,
+		"landfall": false,
+		"proximity": [],
+		"report": "Tropical cyclone of tropical storm intensity",
+		"risk": 0,
+		"speed": "35",
+		"time": "00:00"
+	},
+	"type": "Feature"
+}, {
+	"geometry": {
+		"coordinates": [38.6343, 112.1090],
+		"type": "Point"
+	},
+	"properties": {
+		"class": "TS",
+		"date": "07-29-1998",
+		"highest_risk": null,
+		"landfall": false,
+		"proximity": [],
+		"report": "Tropical cyclone of tropical storm intensity",
+		"risk": 0,
+		"speed": "35",
+		"time": "6:00"
+	},
+	"type": "Feature"
+}, {
+	"geometry": {
+		"coordinates": [ 38.60, 109.6],
+		"type": "Point"
+	},
+	"properties": {
+		"class": "TS",
+		"date": "07-29-1998",
+		"highest_risk": null,
+		"landfall": false,
+		"proximity": [],
+		"report": "Tropical cyclone of tropical storm intensity",
+		"risk": 0,
+		"speed": "35",
+		"time": "12:00"
+	},
+	"type": "Feature"
+}, {
+	"geometry": {
+		"coordinates": [38.21, 109.9],
+		"type": "Point"
+	},
+	"properties": {
+		"class": "TS",
+		"date": "07-29-1998",
+		"highest_risk": null,
+		"landfall": false,
+		"proximity": [],
+		"report": "Tropical cyclone of tropical storm intensity",
+		"risk": 0,
+		"speed": "35",
+		"time": "18:00"
+	},
+	"type": "Feature"
+}, {
+	"geometry": {
+		"coordinates": [-42.6, 14.2],
+		"type": "Point"
+	},
+	"properties": {
+		"class": "TS",
+		"date": "07-30-1998",
+		"highest_risk": null,
+		"landfall": false,
+		"proximity": [],
+		"report": "Tropical cyclone of tropical storm intensity",
+		"risk": 0,
+		"speed": "35",
+		"time": "00:00"
+	},
+	"type": "Feature"
+}, {
+	"geometry": {
+		"coordinates": [-43.9, 14.4],
+		"type": "Point"
+	},
+	"properties": {
+		"class": "TS",
+		"date": "07-30-1998",
+		"highest_risk": null,
+		"landfall": false,
+		"proximity": [],
+		"report": "Tropical cyclone of tropical storm intensity",
+		"risk": 0,
+		"speed": "40",
+		"time": "6:00"
+	},
+	"type": "Feature"
+}, {
+	"geometry": {
+		"coordinates": [-45.0, 14.7],
+		"type": "Point"
+	},
+	"properties": {
+		"class": "TS",
+		"date": "07-30-1998",
+		"highest_risk": null,
+		"landfall": false,
+		"proximity": [],
+		"report": "Tropical cyclone of tropical storm intensity",
+		"risk": 0,
+		"speed": "40",
+		"time": "12:00"
+	},
+	"type": "Feature"
+}, {
+	"geometry": {
+		"coordinates": [-46.1, 15.1],
+		"type": "Point"
+	},
+	"properties": {
+		"class": "TS",
+		"date": "07-30-1998",
+		"highest_risk": null,
+		"landfall": false,
+		"proximity": [],
+		"report": "Tropical cyclone of tropical storm intensity",
+		"risk": 0,
+		"speed": "45",
+		"time": "18:00"
+	},
+	"type": "Feature"
+}, {
+	"geometry": {
+		"coordinates": [-47.1, 15.4],
+		"type": "Point"
+	},
+	"properties": {
+		"class": "TS",
+		"date": "07-31-1998",
+		"highest_risk": null,
+		"landfall": false,
+		"proximity": [],
+		"report": "Tropical cyclone of tropical storm intensity",
+		"risk": 0,
+		"speed": "45",
+		"time": "00:00"
+	},
+	"type": "Feature"
+}, {
+	"geometry": {
+		"coordinates": [-48.1, 15.6],
+		"type": "Point"
+	},
+	"properties": {
+		"class": "TS",
+		"date": "07-31-1998",
+		"highest_risk": null,
+		"landfall": false,
+		"proximity": [],
+		"report": "Tropical cyclone of tropical storm intensity",
+		"risk": 0,
+		"speed": "45",
+		"time": "6:00"
+	},
+	"type": "Feature"
+}, {
+	"geometry": {
+		"coordinates": [-49.2, 15.7],
+		"type": "Point"
+	},
+	"properties": {
+		"class": "TS",
+		"date": "07-31-1998",
+		"highest_risk": null,
+		"landfall": false,
+		"proximity": [],
+		"report": "Tropical cyclone of tropical storm intensity",
+		"risk": 0,
+		"speed": "45",
+		"time": "12:00"
+	},
+	"type": "Feature"
+}, {
+	"geometry": {
+		"coordinates": [-50.4, 15.8],
+		"type": "Point"
+	},
+	"properties": {
+		"class": "TS",
+		"date": "07-31-1998",
+		"highest_risk": null,
+		"landfall": false,
+		"proximity": [],
+		"report": "Tropical cyclone of tropical storm intensity",
+		"risk": 0,
+		"speed": "40",
+		"time": "18:00"
+	},
+	"type": "Feature"
+}]
